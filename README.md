@@ -31,3 +31,6 @@ insurance-claims-app/
 └── static/
     └── style.css       # Styling
 
+<img width="676" height="462" alt="Screenshot 2025-09-17 173954" src="https://github.com/user-attachments/assets/0850e9b3-b6fe-490b-8826-fc17a1b8b979" />
+    
+
